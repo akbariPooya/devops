@@ -98,6 +98,10 @@ echo "Install GitHub CLI..."
 # sudo apt-get update -y
 sudo apt-get install -y gh
 
+echo "Install Zip and Unzip"
+
+sudo apt-get install zip unzip
+
 echo "Install Make"
 
 sudo apt-get install make
