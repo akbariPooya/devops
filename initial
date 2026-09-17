@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #
 # install.sh - Install Docker, Docker Compose plugin, Portainer, Git, GitHub CLI, zip/unzip, make
 # Fixed & hardened version with clear CLI output.
